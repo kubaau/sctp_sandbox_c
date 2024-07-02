@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = git@github.com:kubaau/tools.git
+[submodule "tools_c"]
+	path = tools_c
+	url = git@github.com:kubaau/tools_c.git
