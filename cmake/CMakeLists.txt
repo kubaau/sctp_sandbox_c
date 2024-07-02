@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.16)
 
 project(sctp_sandbox_c)
 
-include(../tools/CMakeCommon.cmake)
+include(../tools_c/tools/CMakeCommon.cmake)
 
 verifyCCompiler(8 6)
 
